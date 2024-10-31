@@ -1,0 +1,104 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 8, 2018, 10:54:40 AM
+    Author     : adnan.moqsood
+*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dataRequest{
+    float: left;
+    background: #fff;
+    margin: 0px 17px 0px 0px !important;
+}
+main.tabs_area {
+    width: 80%;
+    padding: 20px;
+    background: #fff;
+    float: left;
+    border-right: 1px solid #ddd;
+}
+main.promotion_area {
+    width: 20%;
+    padding: 20px;
+    background: #fff;
+    float: right;
+}
+
+section {
+    padding: 20px 0 0;
+    border-top: 1px solid #ddd;
+}
+
+#tab1,#tab2,#tab3,#tab4 {
+    display: none;
+}
+
+label {
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding: 15px 25px;
+    font-weight: 600;
+    text-align: center;
+    color: #bbb;
+    border: 1px solid transparent;
+}
+
+label:before {
+    font-family: fontawesome;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+label[for*='1']:before { content: '\f00b'; }
+label[for*='2']:before { content: '\f00e'; }
+label[for*='3']:before { content: '\f014'; }
+label[for*='4']:before { content: '\f013'; }
+
+label:hover {
+    color: #888;
+    cursor: pointer;
+}
+
+input:checked + label {
+    color: #555;
+    border: 1px solid #ddd;
+    border-top: 2px solid #0085ba;
+    border-bottom: 1px solid #fff;
+}
+input:checked + label:before {
+    color: #0085ba !important;
+}
+
+/*#tab1:checked ~ #content1,
+#tab2:checked ~ #content2{
+  display: block;
+}*/
+
+@media screen and (max-width: 800px) {
+    label {
+        font-size: 0;
+    }
+    label:before {
+        margin: 0;
+        font-size: 18px;
+    }
+    main.tabs_area,main.promotion_area{
+        width: 100%;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    label {
+        padding: 15px;
+    }
+}

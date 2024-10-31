@@ -1,0 +1,787 @@
+# Copyright (C) 2018 WP Power Forms
+# This file is distributed under the same license as the WP Power Forms package
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Power Forms 1.0\n"
+"POT-Creation-Date: 2018-02-20 12:40+0500\n"
+"PO-Revision-Date: 2018-04-26 15:30+0500\n"
+"Language-Team: PressTigers <support@presstigers.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /wp-content/plugins/power-forms\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: admin/includes/class-power-forms-settings.php:77
+msgid "Power Forms"
+msgstr "Formularios de energía"
+
+#: admin/includes/class-power-forms-settings.php:82
+#: admin/includes/settings/power-forms-global-settings.php:27
+msgid "Global Settings"
+msgstr "Ajustes globales"
+
+#: admin/includes/class-power-forms-settings.php:52
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: admin/includes/settings/power-forms-global-settings.php:23
+#: admin/includes/settings/power-forms-recaptcha-settings.php:16
+#: admin/partials/class-power-forms-mailer.php:229
+msgid "Settings Saved!"
+msgstr "¡Ajustes guardados!"
+
+#: admin/includes/settings/power-forms-global-settings.php:36
+msgid "Form Class"
+msgstr "Clase de formulario"
+
+#: admin/includes/settings/power-forms-global-settings.php:44
+msgid "Please enter the form classes that you want to add in form."
+msgstr ""
+"Introduzca las clases de formulario que desea agregar en el formulario."
+
+#: admin/includes/settings/power-forms-global-settings.php:48
+msgid "Form Permissions"
+msgstr "Permisos de forma"
+
+#: admin/includes/settings/power-forms-global-settings.php:57
+msgid "For All"
+msgstr "Para todos"
+
+#: admin/includes/settings/power-forms-global-settings.php:64
+msgid "Loggedin Users"
+msgstr "Usuarios Conectados"
+
+#: admin/includes/settings/power-forms-global-settings.php:71
+msgid "Not Loggedin users"
+msgstr "Usuarios no conectados"
+
+#: admin/includes/settings/power-forms-global-settings.php:73
+msgid ""
+"Please give permissions for the forms, whome you want to display the form."
+msgstr ""
+"Proporcione permisos para los formularios, a los que desee mostrar el "
+"formulario"
+
+#: admin/includes/settings/power-forms-global-settings.php:77
+msgid "Submit Button Text"
+msgstr "Enviar texto del botón"
+
+#: admin/includes/settings/power-forms-global-settings.php:85
+msgid "Please enter the submit button text."
+msgstr "Por favor ingrese el texto del botón de enviar"
+
+#: admin/includes/settings/power-forms-global-settings.php:90
+msgid "Success Message"
+msgstr "Mensaje de éxito"
+
+#: admin/includes/settings/power-forms-global-settings.php:98
+msgid "Please enter the form success message."
+msgstr "Por favor ingrese el mensaje de éxito del formulario"
+
+#: admin/includes/settings/power-forms-global-settings.php:102
+msgid "Error Message"
+msgstr "Mensaje de error"
+
+#: admin/includes/settings/power-forms-global-settings.php:110
+msgid "Please enter the form error message."
+msgstr "Por favor ingrese el mensaje de error del formulario"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:8
+#: admin/includes/class-power-forms-settings.php:84
+msgid "GDPR Compliance"
+msgstr "Cumplimiento de GDPR"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:10
+msgid "WARNING - IMPORTANT MESSAGE:"
+msgstr "ADVERTENCIA - MENSAJE IMPORTANTE:"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:12
+msgid ""
+"If your company does business with residents of the EU – whether or not they "
+"are paying customers and whether or not they are citizens of an EU country – "
+"or collects or processes the personal information of EU residents, collect "
+"or give out business cards, email lists, or even just tracks their web-"
+"browsing habits with cookies, it’s likely the GDPR applies.All U.S. "
+"businesses need to pay attention to the new and comprehensive EU-wide "
+"privacy law known as the General Data Protection Regulation (GDPR), which "
+"takes effect on May 25, 2018. With its greatly expanded compliance "
+"obligations, tough penalty regime (fines can be as much as 4% of a company’s "
+"worldwide gross revenue), and extra-territorial applicability, even "
+"businesses licensed to sell only in the U.S., and with no operations in the "
+"EU whatsoever, may nonetheless find that they are subject to the "
+"jurisdiction of GDPR.Continuing to service policies sold in the US to "
+"customers who later moved to the EU, for example, may raise issues regarding "
+"whether the company’s activities bring it within the jurisdiction of the "
+"GDPR, which is designed to protect the personal data of individuals in the "
+"EU, regardless of nationality."
+msgstr ""
+"Si su empresa hace negocios con residentes de la UE, ya sea que paguen o no "
+"clientes y sean o no ciudadanos de un país de la UE, o recopilen o procesen "
+"la información personal de residentes de la UE, recopilen o entreguen "
+"tarjetas de presentación, envíe un correo electrónico listas, o incluso solo "
+"hace un seguimiento de sus hábitos de navegación con cookies, es probable "
+"que se aplique el GDPR. Todas las empresas estadounidenses deben prestar "
+"atención a la nueva y amplia ley de privacidad de la UE conocida como "
+"Regulación General de Protección de Datos (GDPR), que toma efecto el 25 de "
+"mayo de 2018. Con sus obligaciones de cumplimiento muy expandidas, el "
+"régimen de sanciones estrictas (las multas pueden representar hasta el 4% de "
+"los ingresos brutos mundiales de una compañía) y la aplicabilidad "
+"extraterritorial, incluso las empresas con licencia para vender solo en los "
+"EE. UU. y sin operaciones en la UE, sin embargo, puede encontrar que están "
+"sujetos a la jurisdicción de GDPR. Continuar con las políticas de servicio "
+"vendidas en los EE.UU. a los clientes que luego se mudaron a la UE, por "
+"ejemplo, puede ra Se trata de cuestiones relacionadas con si las actividades "
+"de la compañía lo ponen dentro de la jurisdicción del GDPR, que está "
+"diseñado para proteger los datos personales de las personas en la UE, "
+"independientemente de su nacionalidad"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:17
+msgid "What does GDPR stand for: a meaning and definition?"
+msgstr "¿Qué significa GDPR: un significado y una definición?"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:19
+msgid ""
+"The European General Data Protection Regulation (GDPR for short) is built "
+"around two key principles.Giving citizens and residents more control over "
+"their personal data Simplifying regulations for international businesses "
+"with a unifying regulation that stands across the European Union (EU) It’s "
+"important to bear in mind that the GDPR will apply to any business that "
+"processes the personal data of EU citizens which means that it could also "
+"apply to companies based outside of the EU. See the GDPR checklist below for "
+"information on what ‘personal data’ includes."
+msgstr ""
+"El Reglamento General Europeo de Protección de Datos (GDPR, por sus siglas "
+"en inglés) se basa en dos principios clave: otorgar a los ciudadanos y "
+"residentes más control sobre sus datos personales. Simplificar las "
+"regulaciones para las empresas internacionales con una regulación "
+"unificadora en la Unión Europea (UE). Tenga en cuenta que el GDPR se "
+"aplicará a cualquier empresa que procese los datos personales de ciudadanos "
+"de la UE, lo que significa que también podría aplicarse a empresas con sede "
+"fuera de la UE. Consulte la siguiente lista de GDPR para obtener información "
+"sobre lo que \"datos personales\" incluye "
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:25
+msgid "GDPR checklist for small businesses"
+msgstr "Lista de verificación de GDPR para pequeñas empresas"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:27
+msgid ""
+"Remember, your checklist needs to take into account past and present "
+"employees and suppliers as well as customers (and anyone else’s data you’re "
+"getting hold of, storing and using"
+msgstr ""
+"Recuerde, su lista de verificación debe tener en cuenta a los empleados y "
+"proveedores pasados ​​y presentes, así como a los clientes (y los datos de "
+"cualquier otra persona que está obteniendo, almacenando y utilizando"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:29
+msgid "Know your data."
+msgstr "Conoce tus datos"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:31
+msgid ""
+"You’ll need to demonstrate an understanding of the types of personal data "
+"(for example name, address, email, bank details, photos, IP addresses) and "
+"sensitive (or special category) data (for example health details or "
+"religious views) you hold, where they’re coming from, where they’re going "
+"and how you’re using that data."
+msgstr ""
+"Deberá demostrar que comprende los tipos de datos personales (por ejemplo, "
+"nombre, dirección, correo electrónico, datos bancarios, fotos, direcciones "
+"IP) y datos confidenciales (o categorías especiales) (por ejemplo, detalles "
+"de salud o puntos de vista religiosos). espera, de dónde vienen, a dónde van "
+"y cómo estás usando esa información"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:33
+msgid "Identify whether you’re relying on consent to process personal data."
+msgstr ""
+"Identifique si está confiando en el consentimiento para procesar datos "
+"personales"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:35
+msgid ""
+"If you are (for example, as part of your marketing), these activities will "
+"become more difficult under the GDPR because the consent needs to be clear, "
+"specific and explicit. For this reason, you should avoid relying on consent "
+"unless absolutely necessary."
+msgstr ""
+"Si lo es (por ejemplo, como parte de su comercialización), estas actividades "
+"se volverán más difíciles según el GDPR porque el consentimiento debe ser "
+"claro, específico y explícito. Por esta razón, debe evitar confiar en el "
+"consentimiento a menos que sea absolutamente necesario."
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:37
+msgid "Look hard at your security measures and policies."
+msgstr "Analice detenidamente sus medidas y políticas de seguridad"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:39
+msgid ""
+"You’ll need to update these to be GDPR-compliant, and if you don’t currently "
+"have any, get them in place. Broad use of encryption could be a good way to "
+"reduce the likelihood of a big penalty in the event of a breach."
+msgstr ""
+"Necesitarás actualizar estos para que sean compatibles con GDPR, y si no "
+"tienes ninguno, ponlos en su lugar. Un amplio uso del cifrado podría ser una "
+"buena forma de reducir la probabilidad de una gran penalización en el caso "
+"de un incumplimiento."
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:41
+msgid "Prepare to meet access requests within a one-month timeframe."
+msgstr ""
+"Prepárese para cumplir con las solicitudes de acceso dentro de un plazo de "
+"un mes"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:43
+msgid ""
+"Subject Access Rights are changing, and under the GDPR, citizens have the "
+"right to access all of their personal data, rectify anything that’s "
+"inaccurate and object to processing in certain circumstances, or completely "
+"erase all of their personal data that you may hold. Each request carries a "
+"timeframe and deadline of one month (which can only be extended in "
+"mitigating circumstances), from the original date of the request."
+msgstr ""
+"Los derechos de acceso a los sujetos están cambiando, y según el GDPR, los "
+"ciudadanos tienen derecho a acceder a todos sus datos personales, rectificar "
+"cualquier cosa que sea inexacta y objetar al procesamiento en ciertas "
+"circunstancias, o borrar por completo todos sus datos personales que pueda "
+"tener. la solicitud tiene un plazo y un plazo de un mes (que solo se puede "
+"extender en circunstancias atenuantes), a partir de la fecha original de la "
+"solicitud"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:45
+msgid "Train your employees, and report a serious breach within 72 hours."
+msgstr ""
+"Capacite a sus empleados e informe una infracción grave dentro de las 72 "
+"horas"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:47
+msgid ""
+"Ensure your employees understand what constitutes a personal data breach and "
+"build processes to pick up any red flags. It’s also important that everybody "
+"involved in your business is aware of a need to report any mistakes to the "
+"DPO or the person or team responsible for data protection compliance, as "
+"this is the most common cause of a data breach."
+msgstr ""
+"Asegúrese de que sus empleados comprendan qué constituye una violación de "
+"datos personales y desarrolle procesos para detectar cualquier señal de "
+"alarma. También es importante que todos los involucrados en su negocio estén "
+"conscientes de la necesidad de informar cualquier error al RPD o a la "
+"persona o equipo responsable de los datos cumplimiento de la protección, ya "
+"que esta es la causa más común de una violación de datos"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:49
+msgid "Conduct due-diligence on your supply chain."
+msgstr "Llevar a cabo la debida diligencia en su cadena de suministro"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:51
+msgid ""
+"You should ensure that all suppliers and contractors are GDPR-compliant to "
+"avoid being impacted by any breaches and consequent penalties. You’ll also "
+"need to ensure you have the right contract terms in place with suppliers "
+"(which puts important obligations on them, such as the need to notify you "
+"promptly if they have a data breach). See ‘How can I check my suppliers are "
+"GDPR-compliant?’ further down."
+msgstr ""
+"Debe asegurarse de que todos los proveedores y contratistas cumplan con GDPR "
+"para evitar verse afectados por infracciones y sanciones consiguientes. "
+"También deberá asegurarse de que tenga los términos contractuales correctos "
+"con los proveedores (lo que les impone obligaciones importantes, tales como: "
+"como la necesidad de notificarle de inmediato si tienen una violación de "
+"datos). Más abajo, consulte \"¿Cómo puedo verificar que mis proveedores "
+"cumplen con GDPR?"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:54
+msgid "Create fair processing notices."
+msgstr "Crear avisos de procesamiento justo"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:56
+msgid ""
+"Under GDPR, you’re required to describe to individuals what you’re doing "
+"with their personal data. See ‘Fair processing notices’ below for more "
+"information."
+msgstr ""
+"Bajo GDPR, se le requiere que describa a los individuos lo que está haciendo "
+"con sus datos personales. Consulte 'Avisos de procesamiento justo' a "
+"continuación para obtener más información"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:59
+msgid "Decide whether you need to employ a Data Protection Officer (DPO)."
+msgstr "Decida si necesita contratar un Oficial de protección de datos (DPO)"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:61
+msgid ""
+"Most small businesses will be exempt. However, if your company’s core "
+"activities involve ‘regular or systematic’ monitoring of data subjects on a "
+"large scale, or which involve processing large volumes of ‘special category "
+"data’ (see ‘Is my data sensitive?’ below) you must employ a Data Protection "
+"Officer (DPO)."
+msgstr ""
+"La mayoría de las pequeñas empresas estarán exentas. Sin embargo, si las "
+"actividades centrales de su compañía implican una supervisión 'regular o "
+"sistemática' de los sujetos de datos a gran escala, o que implique procesar "
+"grandes volúmenes de 'datos de categorías especiales' (consulte '¿Son mis "
+"datos sensibles? 'a continuación) debe emplear un Oficial de Protección de "
+"Datos (DPO)."
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:64
+msgid "DISCLAIMER"
+msgstr "RENUNCIA"
+
+#: admin/includes/settings/power-forms-gdpr-settings.php:66
+msgid ""
+"This plugin contains general information about privacy and data protection "
+"based generally on data protection law, regulations, codes of conduct etc. "
+"However, it is not intended to provide a comprehensive or detailed statement "
+"of the law and does not constitute legal or professional advice.WP Power "
+"Forms use reasonable endeavors to ensure that any information contained in "
+"the plugin is correct. However, we give no representations or warranties, "
+"express or implied, in relation to the accuracy or completeness of such "
+"information. Except as expressly set out in these Terms of Use, all "
+"representations, warranties, terms, and conditions whether express or "
+"implied in relation to this website or the information contained herein are "
+"hereby excluded to the fullest extent permitted by law."
+msgstr ""
+"Este complemento contiene información general sobre privacidad y protección "
+"de datos basada generalmente en leyes de protección de datos, regulaciones, "
+"códigos de conducta, etc. Sin embargo, no tiene la intención de proporcionar "
+"una declaración exhaustiva o detallada de la ley y no constituye un "
+"asesoramiento legal o profesional. WP Power Forms hace todos los esfuerzos "
+"razonables para garantizar que toda la información contenida en el "
+"complemento sea correcta. Sin embargo, no brindamos ninguna representación o "
+"garantía, expresa o implícita, en relación con la precisión o integridad de "
+"dicha información. Salvo lo expresamente establecido en estos Términos. de "
+"Uso, todas las representaciones, garantías, términos y condiciones, ya sean "
+"expresas o implícitas en relación con este sitio web o la información "
+"contenida en este documento se excluyen por la presente en la máxima medida "
+"permitida por la ley "
+
+#: admin/includes/class-power-forms-settings.php:86
+#: admin/includes/settings/power-forms-smtp-settings:8
+msgid "SMTP"
+msgstr "SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:133
+msgid "To"
+msgstr "A"
+
+#: admin/partials/class-power-forms-mailer.php:139
+msgid "Subject"
+msgstr "Tema"
+
+#: admin/partials/class-power-forms-mailer.php:145
+msgid "Message"
+msgstr "Mensaje"
+
+#: admin/partials/class-power-forms-mailer.php:154
+msgid "Send Email"
+msgstr "Enviar correo electrónico"
+
+#: admin/partials/class-power-forms-mailer.php:266
+msgid "SMTP Host"
+msgstr "Servidor SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:268
+msgid ""
+"The SMTP server which will be used to send email. For example: smtp.gmail.com"
+msgstr ""
+"El servidor SMTP que se usará para enviar correos electrónicos. Por ejemplo: "
+"smtp.gmail.com"
+
+#: admin/partials/class-power-forms-mailer.php:272
+msgid "SMTP Authentication"
+msgstr "Autenticación SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:278
+msgid ""
+"Whether to use SMTP Authentication when sending an email (recommended: True)."
+msgstr ""
+"Si se debe usar la autenticación SMTP al enviar un correo electrónico "
+"(recomendado: Verdadero)"
+
+#: admin/partials/class-power-forms-mailer.php:283
+msgid "SMTP Username"
+msgstr "Nombre de usuario SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:285
+msgid "Your SMTP Username."
+msgstr "Su nombre de usuario SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:289
+msgid "SMTP Password"
+msgstr "Contraseña SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:291
+msgid "Your SMTP Password."
+msgstr "Su contraseña SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:295
+msgid "Type of Encryption"
+msgstr "Tipo de encriptación"
+
+#: admin/partials/class-power-forms-mailer.php:302
+msgid ""
+"The encryption which will be used when sending an email (recommended: TLS)."
+msgstr ""
+"El cifrado que se utilizará al enviar un correo electrónico (recomendado: "
+"TLS)"
+
+#: admin/partials/class-power-forms-mailer.php:307
+msgid "SMTP Port"
+msgstr "Puerto SMTP"
+
+#: admin/partials/class-power-forms-mailer.php:309
+msgid ""
+"The port which will be used when sending an email (587/465/25). If you "
+"choose TLS it should be set to 587. For SSL use port 465 instead."
+msgstr ""
+"El puerto que se utilizará al enviar un correo electrónico (587/465/25). Si "
+"elige TLS, debe establecerse en 587. Para SSL, use el puerto 465"
+
+#: admin/partials/class-power-forms-mailer.php:313
+msgid "From Email Address"
+msgstr "De la dirección de correo electrónico"
+
+#: admin/partials/class-power-forms-mailer.php:315
+msgid ""
+"The email address which will be used as the From Address if it is not "
+"supplied to the mail function."
+msgstr ""
+"La dirección de correo electrónico que se utilizará como De Dirección si no "
+"se proporciona a la función de correo"
+
+#: admin/partials/class-power-forms-mailer.php:319
+msgid "From Name"
+msgstr "De nombre"
+
+#: admin/partials/class-power-forms-mailer.php:321
+msgid ""
+"The name which will be used as the From Name if it is not supplied to the "
+"mail function."
+msgstr ""
+"El nombre que se utilizará como From Name si no se proporciona a la función "
+"de correo"
+
+#: admin/partials/class-power-forms-mailer.php:325
+msgid "Disable SSL Certificate Verification"
+msgstr "Deshabilitar la verificación del certificado SSL"
+
+#: admin/partials/class-power-forms-mailer.php:327
+msgid ""
+"As of PHP 5.6 you will get a warning/error if the SSL certificate on the "
+"server is not properly configured. You can check this option to disable that "
+"default behaviour. Please note that PHP 5.6 made this change for a good "
+"reason. So you should get your host to fix the SSL configurations instead of "
+"bypassing it"
+msgstr ""
+"A partir de PHP 5.6 obtendrá una advertencia / error si el certificado SSL "
+"en el servidor no está configurado correctamente. Puede marcar esta opción "
+"para desactivar ese comportamiento predeterminado. Tenga en cuenta que PHP "
+"5.6 hizo este cambio por una buena razón. debería hacer que su host arregle "
+"las configuraciones SSL en lugar de pasar por alto"
+
+#: admin/includes/settings/power-forms-global-settings.php:117
+#: admin/includes/settings/power-forms-recaptcha-settings.php:55
+#: admin/partials/class-power-forms-mailer.php:334
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: admin/includes/class-power-forms-settings.php:88
+#: admin/includes/settings/power-forms-recaptcha-settings.php:20
+msgid "reCAPTCHA Integration"
+msgstr "Integración reCAPTCHA"
+
+#: admin/includes/settings/power-forms-recaptcha-settings.php:28
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+#: admin/includes/settings/power-forms-recaptcha-settings.php:36
+msgid "Please enter the google reCaptcha Site Key"
+msgstr "Ingrese la clave del sitio google reCaptcha"
+
+#: admin/includes/settings/power-forms-recaptcha-settings.php:40
+msgid "Secret Key"
+msgstr "Llave secreta"
+
+#: admin/includes/settings/power-forms-recaptcha-settings.php:48
+msgid "Please enter the google reCaptcha Secret Key"
+msgstr "Ingrese la clave secreta google reCaptcha"
+
+#: admin/includes/class-power-forms-entries:106
+msgid "View"
+msgstr "Ver"
+
+#: admin/includes/class-power-forms-entries:107
+#: admin/includes/class-power-forms-entries:239
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/includes/class-power-forms-entries:160
+#: admin/partials/power-forms-admin-entry-detail:89
+msgid "Entry ID"
+msgstr "Identificación de entrada"
+
+#: admin/includes/class-power-forms-entries:161
+#: admin/partials/power-forms-admin-entry-detail:95
+msgid "Form ID"
+msgstr "ID de formulario"
+
+#: admin/includes/class-power-forms-entries:162
+#: admin/partials/power-forms-admin-entry-detail:101
+msgid "Form Title"
+msgstr "Título del formulario"
+
+#: admin/includes/class-power-forms-entries:163
+#: admin/partials/power-forms-admin-entry-detail:106
+msgid "User"
+msgstr "Usuario"
+
+#: admin/includes/class-power-forms-entries:164
+msgid "Created at"
+msgstr "Creado en"
+
+#: admin/includes/class-power-forms-entries:165
+msgid "Updated at"
+msgstr "Actualizado en"
+
+#: admin/includes/class-power-forms-entries:474
+msgid "Entries"
+msgstr "Entradas"
+
+#: admin/includes/class-power-forms-entries:495
+msgid "Power Forms Entries"
+msgstr "Entradas de Power Forms"
+
+#: admin/includes/class-power-forms-admin-post-type:59
+#: admin/includes/class-power-forms-admin-post-type:155
+msgid "Shortcode"
+msgstr "Código corto"
+
+#: admin/includes/class-power-forms-admin-post-type:61
+msgid "reCAPTCHA?"
+msgstr "reCAPTCHA?"
+
+#: admin/includes/class-power-forms-admin-post-type:62
+msgid "Export Entries"
+msgstr "Entradas de exportación"
+
+#: admin/includes/class-power-forms-admin-post-type:86
+#: admin/partials/power-forms-admin-display-smart-confirmation:19
+msgid "No Redirect"
+msgstr "Sin redirección"
+
+#: admin/includes/class-power-forms-admin-post-type:88
+#: admin/partials/power-forms-admin-display-smart-confirmation:19
+msgid "Redirect To Thankyou Page."
+msgstr "Redirigir a la página de agradecimiento"
+
+#: admin/includes/class-power-forms-admin-post-type:93
+#: admin/partials/power-forms-admin-display-captch:19
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/includes/class-power-forms-admin-post-type:95
+#: admin/partials/power-forms-admin-display-captch:19
+msgid "No"
+msgstr "No"
+
+#: admin/includes/class-power-forms-admin-post-type:99
+msgid "Donwload"
+msgstr "Descargar"
+
+#: admin/includes/class-power-forms-admin-post-type:154
+msgid "Form Styling"
+msgstr "Estilo de forma"
+
+#: admin/includes/class-power-forms-admin-post-type:156
+#: admin/includes/class-power-forms-admin-post-type:60
+msgid "Smart Confirmation"
+msgstr "Confirmación inteligente"
+
+#: admin/includes/class-power-forms-admin-post-type:157
+msgid "Form Builder"
+msgstr "Creador de formularios"
+
+#: admin/includes/class-power-forms-admin-post-type:158
+msgid "Email Settings"
+msgstr "Ajustes del correo electrónico"
+
+#: admin/includes/class-power-forms-admin-post-type:159
+msgid "Need Form reCAPTCHA?"
+msgstr "¿Necesita formulario reCAPTCHA?"
+
+#: admin/partials/power-forms-admin-display-form-builder:35
+msgid "Basic Fields"
+msgstr "Campos básicos"
+
+#: admin/partials/power-forms-admin-display-form-builder:36
+msgid "Layout Fields"
+msgstr "Campos de diseño"
+
+#: admin/partials/power-forms-admin-display-form-builder:37
+msgid "Field Options"
+msgstr "Opciones de campo"
+
+#: admin/partials/power-forms-admin-display-form-builder:76
+msgid "Please select a field"
+msgstr "Por favor seleccione un campo"
+
+#: admin/partials/power-forms-admin-display-form-builder:94
+msgid "Save"
+msgstr "Salvar"
+
+#: admin/partials/power-forms-admin-display-form-builder:95
+msgid "Preview"
+msgstr "Avance"
+
+#: admin/partials/power-forms-admin-display-smart-confirmation:29
+msgid "Redirection after form submission"
+msgstr "Redirección después del envío del formulario"
+
+#: admin/partials/power-forms-admin-display-captch:29
+msgid ""
+"By default reCAPTCHA will be included in form. please enter your credentials "
+"in Settings."
+msgstr ""
+"Por defecto, reCAPTCHA se incluirá en el formulario. Ingrese sus "
+"credenciales en Configuración"
+
+#: admin/partials/power-forms-admin-display-email-settings:12
+msgid ""
+"You can use these mail-tags for composing email template after submission of "
+"this form:"
+msgstr ""
+"Puede usar estas etiquetas de correo para componer la plantilla de correo "
+"electrónico después del envío de este formulario:"
+
+#: admin/partials/power-forms-admin-entry-detail:2
+msgid "View Entry"
+msgstr "Ver entrada"
+
+#: admin/partials/power-forms-admin-entry-detail:61
+msgid "Entry Actions"
+msgstr "Acciones de entrada"
+
+#: admin/partials/power-forms-admin-entry-detail:84
+msgid "Entry Detail"
+msgstr "Detalle de entrada"
+
+#: admin/partials/power-forms-admin-entry-detail:123
+msgid "User Information"
+msgstr "Informacion del usuario"
+
+#: admin/partials/power-forms-admin-entry-detail:71
+msgid "Published on:"
+msgstr "Publicado en:"
+
+#: admin/partials/power-forms-admin-entry-detail:126
+msgid "IP Address:"
+msgstr "Dirección IP:"
+
+#: admin/partials/power-forms-admin-entry-detail:53
+msgid "Back to Entries"
+msgstr "Volver a las entradas"
+
+#: admin/includes/class-power-forms-admin-post-type:127
+msgid "Please save the from before leave otherwise you can not undo"
+msgstr "Guarde el mensaje antes de irse; de ​​lo contrario, no puede deshacer"
+
+#: admin/includes/class-power-forms-admin-post-type:128
+msgid "Field Sucessfully Added"
+msgstr "Campo exitosamente agregado"
+
+#: admin/includes/class-power-forms-admin-post-type:129
+msgid "Field Sucessfully Deleted"
+msgstr "Campo eliminado con éxito"
+
+#: admin/includes/class-power-forms-admin-post-type:130
+#: admin/includes/class-power-forms-fields:85
+#: admin/includes/class-power-forms-fields:87
+msgid "Form Saved"
+msgstr "Forma guardada"
+
+#: admin/includes/class-power-forms-admin-post-type:131
+msgid "Form Sorted"
+msgstr "Formulario ordenado"
+
+#: admin/includes/class-power-forms-admin-post-type:132
+msgid "Column switched to"
+msgstr "Columna cambiada a"
+
+#: admin/includes/class-power-forms-admin-post-type:133
+msgid "Error ! Please try again."
+msgstr "Error! Inténtalo de nuevo."
+
+#: admin/partials/power-forms-admin-display-post-type:268
+msgid "No Record Found!"
+msgstr "¡Ningún record fue encontrado!"
+
+msgid "All Forms"
+msgstr "Todos los formularios"
+
+msgid "View Form"
+msgstr "Ver Formulario"
+
+msgid "Add New Form"
+msgstr "Añadir Nuevo Formulario"
+
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+msgid "Edit Form"
+msgstr "Editar formulario"
+
+msgid "Search Form"
+msgstr "Texto a buscar"
+
+msgid "Not found"
+msgstr "Sin resultados"
+
+msgid "GDPR Requests"
+msgstr "GDPR peticiones"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Email"
+msgstr "Me d"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Request Status"
+msgstr "Estado de la solicitud"
+
+msgid "GDPR Delete Requests"
+msgstr "Solicitudes de eliminación de GDPR"
+
+msgid "Data ID"
+msgstr "Datos"
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "View Requested Data"
+msgstr "DATOS SOLICITADOS"
+
+msgid "GDPR Checkbox Text"
+msgstr "Enviar texto del botón"
+
+msgid "Please enter the GDPR checkbox Text."
+msgstr "Por favor ingrese el texto del botón de enviar"
+
+msgid "GDPR Form Checkbox Text"
+msgstr "Texto de la casilla de verificación"
+
+msgid "Please enter the Form GDPR checkbox Text."
+msgstr "Por favor ingrese la casilla de verificación Formulario GDPR Texto."
+
+msgid "GDPR Complience?"
+msgstr "GDPR Complience?"
+
+msgid "Stop Entries?"
+msgstr "Detener las entradas?"
